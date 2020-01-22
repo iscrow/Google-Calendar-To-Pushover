@@ -1,4 +1,10 @@
-// Paste this code in a script.google.com project, fill out the 2 variables below and click Edit/Current Project Triggers
+// Paste this code in a script.google.com project
+// Fill out the 2 variables below
+// Save!
+// IMPORTANT: Click Run / Run function  / mainProcessEvents. This will prompt google to ask you for
+// authorization to run this code. Once outhorized it can run on a schedule.
+
+// Click Edit/Current Project Triggers
 // Click Add Trigger, fill the form as follows:
 // Chose which function to run: mainProcessEvents
 // Which runs at deployment: Head
