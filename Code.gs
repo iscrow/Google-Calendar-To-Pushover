@@ -6,6 +6,7 @@
 // Select type of time based trigger: Minutes timer
 // Select minute interval: Every minute (or however often you want to check and send due notifications)
 // Failure notification settings: Notify me daily (or whatever you prefer here. It shouldn't fail often)
+// Save
 
 // The only configuration needed should be your pushover User Key and API Token
 
