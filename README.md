@@ -11,6 +11,12 @@ API Token/Key from there.
 ## Installation
 Paste this code in a script.google.com project, fill out the 2 variables **pushoverUser** and **pushoverToken** at the top of the code file 
 
+Save
+
+**IMPORTANT**: Click Run / Run function  / mainProcessEvents. This will prompt google to ask you for authorization to run this code. Once outhorized it can run on a schedule.
+
+Now configure a time based trigger
+
 Click Edit/Current Project Triggers
 
 Click Add Trigger, fill the form as follows:
